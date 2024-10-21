@@ -1,5 +1,3 @@
-# Hi there 
-
 ![header_gif](https://github.com/user-attachments/assets/d78e805d-8e35-470b-891a-5b2d270bed92)
 <h1 align="center">Hi 👋, I'm Pratik Dhobale</h1>
 <h3 align="center">A passionate data analyst from India</h3>
